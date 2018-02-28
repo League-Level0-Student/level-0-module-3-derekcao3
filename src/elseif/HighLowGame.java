@@ -14,7 +14,7 @@ public class HighLowGame {
 		int random = new Random().nextInt((100-1)+1)+1;
 		
 		// 2. Print out the random variable above
-		System.out.println(random);
+		/*System.out.println(random);*/
 		// 11. Repeat steps 1 to 10 ten times
 		for (int i = 0; i < 10; i++) {
 			
